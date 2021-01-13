@@ -2,7 +2,7 @@
 -e git://github.com/mitsuhiko/flask.git@b7dfa6c363aec171bdca04ce0f49ac5f2a0ac35c#egg=Flaskdev
 Jinja2==2.7.3
 MarkupSafe==0.23
-Werkzeug==0.9.6
+Werkzeug==0.15.3
 itsdangerous==0.24
 wsgiref==0.1.2
 PyGithub==1.25.2
